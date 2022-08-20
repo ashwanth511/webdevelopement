@@ -8,4 +8,8 @@ I![Screenshot (1132)](https://user-images.githubusercontent.com/68001319/1843365
 
 
 ![Screenshot (1134)](https://user-images.githubusercontent.com/68001319/184336526-df4077c8-5bbe-4c6d-b54f-16dff6b9b7d0.png)
+
+
+Technology
+Javascript ,PHP,Bootstrap,HTML/CSS
 Anyone who is willing to check my work can send me a request to my mail and i can provide full code
